@@ -1,0 +1,3 @@
+# Git command used to get the changes from the remote branch locally
+
+git pull origin master --rebase 
